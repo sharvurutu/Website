@@ -1,0 +1,18 @@
+.section-background{
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-attachment: fixed;
+	text-transform: uppercase;
+	background: url('../images/slider-bg.jpg');
+	text-align: center;
+	background-size: cover;
+}
+.page-header{
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 200;
+	border-bottom: none;
+    padding-top: 85px;
+    padding-bottom: 40px;
+    font-size: 34px;
+}
